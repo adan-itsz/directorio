@@ -1,0 +1,10 @@
+C:\Users\Administrador\Desktop\directorio\directorio\bin\Debug\directorio.exe.config
+C:\Users\Administrador\Desktop\directorio\directorio\bin\Debug\directorio.exe
+C:\Users\Administrador\Desktop\directorio\directorio\bin\Debug\directorio.pdb
+C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.Form1.resources
+C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.Properties.Resources.resources
+C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.exe
+C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.pdb
+C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.frmLista.resources
