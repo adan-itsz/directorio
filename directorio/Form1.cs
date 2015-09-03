@@ -11,7 +11,11 @@ using System.Collections;
 
 namespace directorio
 {
+
     // comentario2
+
+    // modificacion
+
     public partial class Form1 : Form
     {
         public Form1()
