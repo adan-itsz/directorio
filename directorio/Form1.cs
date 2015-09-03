@@ -11,6 +11,7 @@ using System.Collections;
 
 namespace directorio
 {
+    // comentario2
     public partial class Form1 : Form
     {
         public Form1()

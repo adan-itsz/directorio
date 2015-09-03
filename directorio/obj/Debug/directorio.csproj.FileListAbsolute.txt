@@ -8,3 +8,6 @@ C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.csproj
 C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.exe
 C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.pdb
 C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.frmLista.resources
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\bin\Debug\directorio.exe.config
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\obj\Debug\directorio.exe
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\obj\Debug\directorio.pdb
