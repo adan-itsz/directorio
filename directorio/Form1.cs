@@ -15,7 +15,13 @@ namespace directorio
     // comentario2
 
     // modificacion
-
+    public struct Persona
+    {
+        public string nombre;
+        public string direccion;
+        public string ciudad;
+        public long numero;
+    }
     public partial class Form1 : Form
     {
         public Form1()
@@ -30,17 +36,12 @@ namespace directorio
             dataGridView1.Columns.Add("", "numero telefono");
             dataGridView1.Columns.Add("", "ciudad");
         }
-        ArrayList agenda = new ArrayList();
+         ArrayList agenda = new ArrayList();
+         // List<Persona> agenda = new List<Persona>();
         Persona perso = new Persona();
         int renglon;
         int bandera = 0;
-        public struct Persona
-        {
-            public string nombre;
-            public string direccion;
-            public string ciudad;
-            public long numero;
-        }
+      
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {

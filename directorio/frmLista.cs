@@ -13,32 +13,33 @@ namespace directorio
 {
     public partial class frmLista : Form
     {
-        public struct Persona
-        {
-            public string nombre;
-            public string direccion;
-            public string ciudad;
-            public long numero;
-        }
+        
+        ArrayList agenda = new ArrayList();
         Persona contacto= new Persona();
-        ArrayList agenda;
-        public frmLista( ArrayList datos)
+       // List<Persona> agenda =new List<Persona>();// persona 
+        public frmLista( ArrayList informacion)
         {
             InitializeComponent();
-            agenda = datos;
+            agenda = informacion;
         }
 
         private void frmLista_Load(object sender, EventArgs e)
         {
-            int renglones = agenda.Count;
-            dataGridView1.Columns.Add("", "nombre");
-            dataGridView1.Columns.Add("", "direccion");
-            dataGridView1.Columns.Add("", "numero telefono");
-            dataGridView1.Columns.Add("", "ciudad");
-            for (int ren = 0; ren < renglones; ren++)
+            try
             {
-                contacto = (Persona)agenda[ren]; // casting 
-                dataGridView1.Rows.Add(contacto.nombre, contacto.direccion, contacto.numero, contacto.ciudad);
+                int renglones = agenda.Count;
+                dataGridView1.Columns.Add("", "nombre");
+                dataGridView1.Columns.Add("", "direccion");
+                dataGridView1.Columns.Add("", "numero telefono");
+                dataGridView1.Columns.Add("", "ciudad");
+                for (int ren = 0; ren < renglones; ren++)
+                {
+                    contacto = (Persona)agenda[ren]; // casting 
+                    dataGridView1.Rows.Add(contacto.nombre, contacto.direccion, contacto.numero - 1, contacto.ciudad);
+                }
+            }
+            catch(Exception ){
+
             }
                
         }

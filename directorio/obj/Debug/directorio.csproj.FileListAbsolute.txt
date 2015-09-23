@@ -11,3 +11,10 @@ C:\Users\Administrador\Desktop\directorio\directorio\obj\Debug\directorio.frmLis
 C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\bin\Debug\directorio.exe.config
 C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\obj\Debug\directorio.exe
 C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\obj\Debug\directorio.pdb
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\bin\Debug\directorio.exe
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\bin\Debug\directorio.pdb
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\obj\Debug\directorio.csprojResolveAssemblyReference.cache
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\obj\Debug\directorio.Form1.resources
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\obj\Debug\directorio.frmLista.resources
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\obj\Debug\directorio.Properties.Resources.resources
+C:\Users\adan\Documents\repositoriosVisual\directorio\directorio\obj\Debug\directorio.csproj.GenerateResource.Cache
